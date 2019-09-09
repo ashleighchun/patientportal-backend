@@ -1,0 +1,14 @@
+Doctor
+has_many :appointments
+:name string
+:specialty string
+:city string
+
+
+Appointment
+belongs_to :doctor
+:doctor_id - integer
+:date - datetime
+:reason - string
+:perscription - string
+:follow_up - boolean
