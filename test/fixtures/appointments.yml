@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  doctor_id: 1
+  date: 2019-09-09 16:59:22
+  reason: MyString
+  perscription: MyString
+
+two:
+  doctor_id: 1
+  date: 2019-09-09 16:59:22
+  reason: MyString
+  perscription: MyString
