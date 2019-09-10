@@ -11,4 +11,4 @@ belongs_to :doctor
 :date - datetime
 :reason - string
 :perscription - string
-:follow_up - boolean
+:follow_up - boolean ?
