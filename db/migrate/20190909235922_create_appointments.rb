@@ -5,6 +5,7 @@ class CreateAppointments < ActiveRecord::Migration[5.2]
       t.datetime :date
       t.string :reason
       t.string :perscription
+      t.boolean :follow_up_needed
 
       t.timestamps
     end
